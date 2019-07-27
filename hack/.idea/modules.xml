@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Hleb-Sol/.idea/Hleb-Sol.iml" filepath="$PROJECT_DIR$/../Hleb-Sol/.idea/Hleb-Sol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Work/X5/X5PetrPervii/.idea/X5PetrPervii.iml" filepath="$PROJECT_DIR$/../Work/X5/X5PetrPervii/.idea/X5PetrPervii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hack.iml" filepath="$PROJECT_DIR$/.idea/hack.iml" />
+    </modules>
+  </component>
+</project>
